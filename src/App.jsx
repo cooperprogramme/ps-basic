@@ -32,7 +32,7 @@ range sliders^
 
 P.S.
 Keep in touch =
-@psfd.studio
+@portalstudio.uk
 
 <3`;
 
@@ -158,10 +158,10 @@ The letters ‘Bas’ from ‘Basil’, and ‘ic’ from ‘Zurich’, the name
 
 PS Basic is the first project by studio PSfD® ('Programme Studio for Design'), an experimental visual design studio founded in 2020, existing to study programmatic design systems in visual communication.
 
-©2023 PSfD®
-PSfD.studio
-talk@psfd.studio
-@psfd.studio`;
+©2023 portal studio™
+portalstudio.uk
+talk@portalstudio.uk
+@portalstudio.uk`;
     setTextValue(newValue);
     setChangeSize(size);
     setLetterSpacing(spacing);
